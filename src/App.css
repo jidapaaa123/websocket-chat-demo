@@ -8,3 +8,7 @@
 .message-input button:disabled { cursor: not-allowed; opacity: 0.5; }
 .connected { color: #16803b; }
 .disconnected { color: #b42318; }
+
+/* more */
+.error { color: #b42318; margin-top: 8px; }
+.timestamp { color: #666; font-size: 0.85em; }
